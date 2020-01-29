@@ -1,0 +1,41 @@
+{
+	/* Item Groups */
+	"itemGroup.ftalchemist": "FullThrottle Alchemist",
+	
+	/* Normal Items */
+	"item.ftalchemist.alchemy_pack": "Alchemy Pack",
+	"item.ftalchemist.bomb": "Bomb",
+	"item.ftalchemist.clipboard": "Clipboard",
+	"item.ftalchemist.custom_frame": "Custom Frame",
+	"item.ftalchemist.ender_pack": "Ender Pack",
+	"item.ftalchemist.entity_bottle": "Entity Bottle",
+	"item.ftalchemist.flask": "Flask",
+	"item.ftalchemist.hearth_stone": "Hearth Stone",
+	"item.ftalchemist.member_card": "Member Card",
+	"item.ftalchemist.powerup": "Power Up",
+	"item.ftalchemist.resource": "Resource",
+	"item.ftalchemist.tile_box": "Tile Box",
+	"item.ftalchemist.vellum": "Vellum",
+	
+	/* Tool items */
+	"item.ftalchemist.alchemist_wrench": "Alchemist Wrench",
+	"item.ftalchemist.alchemy_belt": "Alchemy Belt",
+	"item.ftalchemist.hero_bow": "Hero Bow",
+	"item.ftalchemist.magnet": "Magnet",
+	"item.ftalchemist.mitts": "Mitts",
+	"item.ftalchemist.saber": "Saber",
+	"item.ftalchemist.watch": "Watch",
+	"item.ftalchemist.watering_can": "Watering Can",
+	
+	/* Block Items */
+	"item.ftalchemist.alchemy_furnace": "Alchemy Furnace",
+	"item.ftalchemist.atelier": "Atelier",
+	"item.ftalchemist.enchantment_table": "Enchantment Table",
+	"item.ftalchemist.storage": "Storage",
+	
+	/* Blocks */
+	"block.ftalchemist.alchemy_furnace": "Alchemy Furnace",
+	"block.ftalchemist.atelier": "Atelier",
+	"block.ftalchemist.enchantment_table": "Enchantment Table",
+	"block.ftalchemist.storage": "Storage"
+}
