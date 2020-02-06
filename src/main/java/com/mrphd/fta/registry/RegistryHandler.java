@@ -1,5 +1,6 @@
-package com.mrphd.fta;
+package com.mrphd.fta.registry;
 
+import com.mrphd.fta.Main;
 import com.mrphd.fta.block.ModBlocks;
 import com.mrphd.fta.item.ModItems;
 
