@@ -16,7 +16,6 @@ public class Main {
     public static final Logger LOGGER = LogManager.getLogger();
 	
 	public Main() {
-		
 		FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setupClient);
 		MinecraftForge.EVENT_BUS.register(this);
 	}

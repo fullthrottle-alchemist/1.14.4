@@ -64,7 +64,7 @@ public class ModItems {
 		// NORMAL ITEMS
 		items.add(ALCHEMY_PACK = dummyItem("alchemy_pack"));
 		items.add(BOMB = dummyItem("bomb"));
-		items.add(CLIPBOARD = dummyItem("clipboard"));
+		items.add(CLIPBOARD = new Clipboard());
 		items.add(CUSTOM_FRAME = dummyItem("custom_frame"));
 		items.add(ENDER_PACK = dummyItem("ender_pack"));
 		items.add(ENTITY_BOTTLE = dummyItem("entity_bottle"));
